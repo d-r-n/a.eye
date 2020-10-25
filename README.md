@@ -1,4 +1,4 @@
-# HackTX-2020
+# a.Eye
 ## Inspiration
 As virtual connections are becoming the norm today, meeting with people through video conferencing has become a staple of everyday tasks from work meetings to class presentations. Transitioning from everyday face-to-face interactions to video calls has presented its own unique challenges. We often feel like we are talking to computer screens, tiring our eyes by the constant exposure to screen light, neglecting to realize that real people are on the other side of the screen. As a result, our eyes tend to wander off, albeit unconsciously, and we lose focus in our meetings. Losing eye contact causes us to lose focus and engagement with our virtual audience. Therefore, our quotidian life of virtual video conferencing has inspired us to create a machine learning model that detects whenever our eyes gaze off the camera, and would signal an alert to us as a reminder to keep our focus in check. Our project, entitled a.Eye, is a play on the word "A.I" that leverages technology to help us keep an eye on our eye.
 
